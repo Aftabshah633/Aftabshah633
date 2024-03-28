@@ -1,7 +1,10 @@
 # Hi there, I'm Aftab! 👋
 
 I'm a Mean stack developer from the United Kingdom, passionate about creating web applications and exploring the world of progressive web apps (PWAs).
-
+<!-- GIF -->
+<p align="center">
+  <img src="https://www.facebook.com/photo/?fbid=403537712378258&set=a.312795161452514" alt="Boy holding laptop">
+</p>
 ## About Me
 
 - 🌱 I'm currently working on honing my skills in the MEAN stack (MongoDB, Express.js, Angular, Node.js).
