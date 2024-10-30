@@ -1,7 +1,7 @@
 ![Header](./header-image.png)
 <h1 align="center">Hi 👋, I'm Syed Muhammad Aftab</h1>
 <h3 align="center">A passionate frontend developer from United Kingdom</h3>
-
+<img align="right" alt="coding" width="400" src="./developer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabshah633&label=Profile%20views&color=0e75b6&style=flat" alt="aftabshah633" /> </p>
 
 - 🔭 I’m currently working on [JustVote-it](https://play.google.com/store/apps/details?id=app.batliyo.justvoteit&hl=en_GB)
