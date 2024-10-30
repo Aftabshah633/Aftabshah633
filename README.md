@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js , AWS,Advanced JavaScript Patterns by Frontend Masters**
 
-- 👯 I’m looking to collaborate on [**[ConnectNow](https://github.com/Aftabshah633)** A real-time chat application built with React, Firebase, and WebSockets for seamless messaging and file sharing.](**[ConnectNow](https://github.com/Aftabshah633)** A real-time chat application built with React, Firebase, and WebSockets for seamless messaging and file sharing.)
+- 👯 I’m looking to collaborate on a real-time chat application built with React, Firebase, and WebSockets for seamless messaging and file sharing. 
 
 - 👨‍💻 All of my projects are available at [https://aftabdev.vercel.app/](https://aftabdev.vercel.app/)
 
