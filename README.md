@@ -1,4 +1,4 @@
-![Header](./github-header-image(1).png)
+![Header](./header-image.png)
 <h1 align="center">Hi 👋, I'm Syed Muhammad Aftab</h1>
 <h3 align="center">A passionate frontend developer from United Kingdom</h3>
 
