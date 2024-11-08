@@ -81,11 +81,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabshah633&show_icons=true&locale=en&layout=compact" alt="aftabshah633 Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabshah633&show_icons=true&locale=en" alt="aftabshah633 GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabshah633" alt="aftabshah633 GitHub Streak" /></p>
 
