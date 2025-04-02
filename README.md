@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **real-time chat applications** built with **React, Firebase, and WebSockets** for smooth messaging and file sharing.
 
-- 👨‍💻 All my projects are available on my [**Portfolio**](https://aftabdev.vercel.app/).
-
 - 💬 Feel free to ask me about **Angular, React, HTML, CSS, Bootstrap, Redux, and CI/CD**.
 
 - 📫 Reach me at **shahaftab5100@gmail.com**
