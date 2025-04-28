@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="250" alt="banner" src="./header.png" />
+<img align="center" width="100%" height="250" alt="banner" src="./banner.png" />
 
 <h1 align="center">Hi 👋, I'm Syed Muhammad Aftab</h1>
 <h3 align="center">A passionate Full Stack and Frontend Developer based in the United Kingdom 🇬🇧</h3>
